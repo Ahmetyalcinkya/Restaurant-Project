@@ -347,12 +347,13 @@ header.sticky {
   padding: 2rem;
   background: var(--other-color);
   border-radius: 3rem;
+  max-height: 17rem;
 }
 
 .box p {
   color: var(--second-color);
   font-size: var(--p-font);
-  line-height: 2rem;
+  line-height: 1.5rem;
   margin-bottom: 1.5rem;
 }
 
